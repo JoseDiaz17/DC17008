@@ -1,4 +1,3 @@
 # DC17008
-Proyecto creado por José Diaz.
-app web java.
-Ejercicios y cortos.
+Proyecto web creado por José Diaz.
+
